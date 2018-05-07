@@ -26,5 +26,5 @@ function maybeTrue() {
 }
 
 function doWhileLoop(array) {
-  
+  array.shift()
 } 
